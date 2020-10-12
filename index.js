@@ -3,4 +3,6 @@ function getFirstSelector(selector) {
   return ele;
 }
 
-function nestedTarget()
+function nestedTarget() {
+  docu
+}
