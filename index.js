@@ -7,3 +7,7 @@ function nestedTarget() {
   const target = document.getElementById('nested').querySelector('div.target')
   return target;
 }
+
+function increaseRankBy(n) {
+  
+}
